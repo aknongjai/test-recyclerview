@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recyclerview</string>
+    <string name="recycler_view">RecyclerView</string>
+    <string name="title">Title</string>
+    <string name="content_title">The Title</string>
+    <string name="the_description">Just Descripting</string>
+</resources>
